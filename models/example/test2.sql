@@ -1,0 +1,1 @@
+select (to_date('12-01-2022','dd-mm-yyyy')-to_date('01-01-2022','dd-mm-yyyy')) as date_c
